@@ -1,7 +1,702 @@
 [
-  { "id": 1, "name": "Laptop Pro", "category": "Electronics", "price": 2499 },
-  { "id": 2, "name": "Noise Cancelling Headphones", "category": "Electronics", "price": 399 },
-  { "id": 3, "name": "Ultra‑Wide Monitor", "category": "Electronics", "price": 999 },
-  { "id": 4, "name": "Ergonomic Chair", "category": "Furniture", "price": 799 },
-  { "id": 5, "name": "Standing Desk", "category": "Furniture", "price": 1199 }
+  {
+    "id": 1,
+    "name": "Laptop Pro #1",
+    "category": "Electronics",
+    "price": 2499,
+    "image": "https://cdn.ome.lt/_a08ItspuaWqbcQWxmD7QV2UKqY=/770x0/smart/uploads/conteudo/fotos/Blade_14.png"
+  },
+  {
+    "id": 2,
+    "name": "Noise Cancelling Headphones #2",
+    "category": "Electronics",
+    "price": 409,
+    "image": "https://www.pngplay.com/wp-content/uploads/13/Noise-Cancelling-Headphones-Transparent-Images.png"
+  },
+  {
+    "id": 3,
+    "name": "Ultra-Wide Monitor #3",
+    "category": "Electronics",
+    "price": 1019,
+    "image": "https://storage.aoc.com/assets/12118/AOC_CU34G2XE_PV_FRONT-large.png"
+  },
+  {
+    "id": 4,
+    "name": "Ergonomic Chair #4",
+    "category": "Furniture",
+    "price": 829,
+    "image": "https://static.vecteezy.com/system/resources/previews/036/625/221/non_2x/ai-generated-black-and-red-computer-gaming-chair-isolated-on-a-transparent-background-free-png.png"
+  },
+  {
+    "id": 5,
+    "name": "Standing Desk #5",
+    "category": "Furniture",
+    "price": 1239,
+    "image": "https://static.vecteezy.com/system/resources/previews/050/277/573/non_2x/adjustable-standing-desk-with-wooden-tabletop-free-png.png"
+  },
+  {
+    "id": 6,
+    "name": "Laptop Pro #6",
+    "category": "Electronics",
+    "price": 2549,
+    "image": "https://cdn.ome.lt/_a08ItspuaWqbcQWxmD7QV2UKqY=/770x0/smart/uploads/conteudo/fotos/Blade_14.png"
+  },
+  {
+    "id": 7,
+    "name": "Noise Cancelling Headphones #7",
+    "category": "Electronics",
+    "price": 459,
+    "image": "https://www.pngplay.com/wp-content/uploads/13/Noise-Cancelling-Headphones-Transparent-Images.png"
+  },
+  {
+    "id": 8,
+    "name": "Ultra-Wide Monitor #8",
+    "category": "Electronics",
+    "price": 1069,
+    "image": "https://storage.aoc.com/assets/12118/AOC_CU34G2XE_PV_FRONT-large.png"
+  },
+  {
+    "id": 9,
+    "name": "Ergonomic Chair #9",
+    "category": "Furniture",
+    "price": 879,
+    "image": "https://static.vecteezy.com/system/resources/previews/036/625/221/non_2x/ai-generated-black-and-red-computer-gaming-chair-isolated-on-a-transparent-background-free-png.png"
+  },
+  {
+    "id": 10,
+    "name": "Standing Desk #10",
+    "category": "Furniture",
+    "price": 1289,
+    "image": "https://static.vecteezy.com/system/resources/previews/050/277/573/non_2x/adjustable-standing-desk-with-wooden-tabletop-free-png.png"
+  },
+  {
+    "id": 11,
+    "name": "Laptop Pro #11",
+    "category": "Electronics",
+    "price": 2599,
+    "image": "https://cdn.ome.lt/_a08ItspuaWqbcQWxmD7QV2UKqY=/770x0/smart/uploads/conteudo/fotos/Blade_14.png"
+  },
+  {
+    "id": 12,
+    "name": "Noise Cancelling Headphones #12",
+    "category": "Electronics",
+    "price": 509,
+    "image": "https://www.pngplay.com/wp-content/uploads/13/Noise-Cancelling-Headphones-Transparent-Images.png"
+  },
+  {
+    "id": 13,
+    "name": "Ultra-Wide Monitor #13",
+    "category": "Electronics",
+    "price": 1119,
+    "image": "https://storage.aoc.com/assets/12118/AOC_CU34G2XE_PV_FRONT-large.png"
+  },
+  {
+    "id": 14,
+    "name": "Ergonomic Chair #14",
+    "category": "Furniture",
+    "price": 929,
+    "image": "https://static.vecteezy.com/system/resources/previews/036/625/221/non_2x/ai-generated-black-and-red-computer-gaming-chair-isolated-on-a-transparent-background-free-png.png"
+  },
+  {
+    "id": 15,
+    "name": "Standing Desk #15",
+    "category": "Furniture",
+    "price": 1339,
+    "image": "https://static.vecteezy.com/system/resources/previews/050/277/573/non_2x/adjustable-standing-desk-with-wooden-tabletop-free-png.png"
+  },
+  {
+    "id": 16,
+    "name": "Laptop Pro #16",
+    "category": "Electronics",
+    "price": 2649,
+    "image": "https://cdn.ome.lt/_a08ItspuaWqbcQWxmD7QV2UKqY=/770x0/smart/uploads/conteudo/fotos/Blade_14.png"
+  },
+  {
+    "id": 17,
+    "name": "Noise Cancelling Headphones #17",
+    "category": "Electronics",
+    "price": 559,
+    "image": "https://www.pngplay.com/wp-content/uploads/13/Noise-Cancelling-Headphones-Transparent-Images.png"
+  },
+  {
+    "id": 18,
+    "name": "Ultra-Wide Monitor #18",
+    "category": "Electronics",
+    "price": 1169,
+    "image": "https://storage.aoc.com/assets/12118/AOC_CU34G2XE_PV_FRONT-large.png"
+  },
+  {
+    "id": 19,
+    "name": "Ergonomic Chair #19",
+    "category": "Furniture",
+    "price": 979,
+    "image": "https://static.vecteezy.com/system/resources/previews/036/625/221/non_2x/ai-generated-black-and-red-computer-gaming-chair-isolated-on-a-transparent-background-free-png.png"
+  },
+  {
+    "id": 20,
+    "name": "Standing Desk #20",
+    "category": "Furniture",
+    "price": 1389,
+    "image": "https://static.vecteezy.com/system/resources/previews/050/277/573/non_2x/adjustable-standing-desk-with-wooden-tabletop-free-png.png"
+  },
+  {
+    "id": 21,
+    "name": "Laptop Pro #21",
+    "category": "Electronics",
+    "price": 2699,
+    "image": "https://cdn.ome.lt/_a08ItspuaWqbcQWxmD7QV2UKqY=/770x0/smart/uploads/conteudo/fotos/Blade_14.png"
+  },
+  {
+    "id": 22,
+    "name": "Noise Cancelling Headphones #22",
+    "category": "Electronics",
+    "price": 609,
+    "image": "https://www.pngplay.com/wp-content/uploads/13/Noise-Cancelling-Headphones-Transparent-Images.png"
+  },
+  {
+    "id": 23,
+    "name": "Ultra-Wide Monitor #23",
+    "category": "Electronics",
+    "price": 1219,
+    "image": "https://storage.aoc.com/assets/12118/AOC_CU34G2XE_PV_FRONT-large.png"
+  },
+  {
+    "id": 24,
+    "name": "Ergonomic Chair #24",
+    "category": "Furniture",
+    "price": 1029,
+    "image": "https://static.vecteezy.com/system/resources/previews/036/625/221/non_2x/ai-generated-black-and-red-computer-gaming-chair-isolated-on-a-transparent-background-free-png.png"
+  },
+  {
+    "id": 25,
+    "name": "Standing Desk #25",
+    "category": "Furniture",
+    "price": 1439,
+    "image": "https://static.vecteezy.com/system/resources/previews/050/277/573/non_2x/adjustable-standing-desk-with-wooden-tabletop-free-png.png"
+  },
+  {
+    "id": 26,
+    "name": "Laptop Pro #26",
+    "category": "Electronics",
+    "price": 2749,
+    "image": "https://cdn.ome.lt/_a08ItspuaWqbcQWxmD7QV2UKqY=/770x0/smart/uploads/conteudo/fotos/Blade_14.png"
+  },
+  {
+    "id": 27,
+    "name": "Noise Cancelling Headphones #27",
+    "category": "Electronics",
+    "price": 659,
+    "image": "https://www.pngplay.com/wp-content/uploads/13/Noise-Cancelling-Headphones-Transparent-Images.png"
+  },
+  {
+    "id": 28,
+    "name": "Ultra-Wide Monitor #28",
+    "category": "Electronics",
+    "price": 1269,
+    "image": "https://storage.aoc.com/assets/12118/AOC_CU34G2XE_PV_FRONT-large.png"
+  },
+  {
+    "id": 29,
+    "name": "Ergonomic Chair #29",
+    "category": "Furniture",
+    "price": 1079,
+    "image": "https://static.vecteezy.com/system/resources/previews/036/625/221/non_2x/ai-generated-black-and-red-computer-gaming-chair-isolated-on-a-transparent-background-free-png.png"
+  },
+  {
+    "id": 30,
+    "name": "Standing Desk #30",
+    "category": "Furniture",
+    "price": 1489,
+    "image": "https://static.vecteezy.com/system/resources/previews/050/277/573/non_2x/adjustable-standing-desk-with-wooden-tabletop-free-png.png"
+  },
+  {
+    "id": 31,
+    "name": "Laptop Pro #31",
+    "category": "Electronics",
+    "price": 2799,
+    "image": "https://cdn.ome.lt/_a08ItspuaWqbcQWxmD7QV2UKqY=/770x0/smart/uploads/conteudo/fotos/Blade_14.png"
+  },
+  {
+    "id": 32,
+    "name": "Noise Cancelling Headphones #32",
+    "category": "Electronics",
+    "price": 709,
+    "image": "https://www.pngplay.com/wp-content/uploads/13/Noise-Cancelling-Headphones-Transparent-Images.png"
+  },
+  {
+    "id": 33,
+    "name": "Ultra-Wide Monitor #33",
+    "category": "Electronics",
+    "price": 1319,
+    "image": "https://storage.aoc.com/assets/12118/AOC_CU34G2XE_PV_FRONT-large.png"
+  },
+  {
+    "id": 34,
+    "name": "Ergonomic Chair #34",
+    "category": "Furniture",
+    "price": 1129,
+    "image": "https://static.vecteezy.com/system/resources/previews/036/625/221/non_2x/ai-generated-black-and-red-computer-gaming-chair-isolated-on-a-transparent-background-free-png.png"
+  },
+  {
+    "id": 35,
+    "name": "Standing Desk #35",
+    "category": "Furniture",
+    "price": 1539,
+    "image": "https://static.vecteezy.com/system/resources/previews/050/277/573/non_2x/adjustable-standing-desk-with-wooden-tabletop-free-png.png"
+  },
+  {
+    "id": 36,
+    "name": "Laptop Pro #36",
+    "category": "Electronics",
+    "price": 2849,
+    "image": "https://cdn.ome.lt/_a08ItspuaWqbcQWxmD7QV2UKqY=/770x0/smart/uploads/conteudo/fotos/Blade_14.png"
+  },
+  {
+    "id": 37,
+    "name": "Noise Cancelling Headphones #37",
+    "category": "Electronics",
+    "price": 759,
+    "image": "https://www.pngplay.com/wp-content/uploads/13/Noise-Cancelling-Headphones-Transparent-Images.png"
+  },
+  {
+    "id": 38,
+    "name": "Ultra-Wide Monitor #38",
+    "category": "Electronics",
+    "price": 1369,
+    "image": "https://storage.aoc.com/assets/12118/AOC_CU34G2XE_PV_FRONT-large.png"
+  },
+  {
+    "id": 39,
+    "name": "Ergonomic Chair #39",
+    "category": "Furniture",
+    "price": 1179,
+    "image": "https://static.vecteezy.com/system/resources/previews/036/625/221/non_2x/ai-generated-black-and-red-computer-gaming-chair-isolated-on-a-transparent-background-free-png.png"
+  },
+  {
+    "id": 40,
+    "name": "Standing Desk #40",
+    "category": "Furniture",
+    "price": 1589,
+    "image": "https://static.vecteezy.com/system/resources/previews/050/277/573/non_2x/adjustable-standing-desk-with-wooden-tabletop-free-png.png"
+  },
+  {
+    "id": 41,
+    "name": "Laptop Pro #41",
+    "category": "Electronics",
+    "price": 2899,
+    "image": "https://cdn.ome.lt/_a08ItspuaWqbcQWxmD7QV2UKqY=/770x0/smart/uploads/conteudo/fotos/Blade_14.png"
+  },
+  {
+    "id": 42,
+    "name": "Noise Cancelling Headphones #42",
+    "category": "Electronics",
+    "price": 809,
+    "image": "https://www.pngplay.com/wp-content/uploads/13/Noise-Cancelling-Headphones-Transparent-Images.png"
+  },
+  {
+    "id": 43,
+    "name": "Ultra-Wide Monitor #43",
+    "category": "Electronics",
+    "price": 1419,
+    "image": "https://storage.aoc.com/assets/12118/AOC_CU34G2XE_PV_FRONT-large.png"
+  },
+  {
+    "id": 44,
+    "name": "Ergonomic Chair #44",
+    "category": "Furniture",
+    "price": 1229,
+    "image": "https://static.vecteezy.com/system/resources/previews/036/625/221/non_2x/ai-generated-black-and-red-computer-gaming-chair-isolated-on-a-transparent-background-free-png.png"
+  },
+  {
+    "id": 45,
+    "name": "Standing Desk #45",
+    "category": "Furniture",
+    "price": 1639,
+    "image": "https://static.vecteezy.com/system/resources/previews/050/277/573/non_2x/adjustable-standing-desk-with-wooden-tabletop-free-png.png"
+  },
+  {
+    "id": 46,
+    "name": "Laptop Pro #46",
+    "category": "Electronics",
+    "price": 2949,
+    "image": "https://cdn.ome.lt/_a08ItspuaWqbcQWxmD7QV2UKqY=/770x0/smart/uploads/conteudo/fotos/Blade_14.png"
+  },
+  {
+    "id": 47,
+    "name": "Noise Cancelling Headphones #47",
+    "category": "Electronics",
+    "price": 859,
+    "image": "https://www.pngplay.com/wp-content/uploads/13/Noise-Cancelling-Headphones-Transparent-Images.png"
+  },
+  {
+    "id": 48,
+    "name": "Ultra-Wide Monitor #48",
+    "category": "Electronics",
+    "price": 1469,
+    "image": "https://storage.aoc.com/assets/12118/AOC_CU34G2XE_PV_FRONT-large.png"
+  },
+  {
+    "id": 49,
+    "name": "Ergonomic Chair #49",
+    "category": "Furniture",
+    "price": 1279,
+    "image": "https://static.vecteezy.com/system/resources/previews/036/625/221/non_2x/ai-generated-black-and-red-computer-gaming-chair-isolated-on-a-transparent-background-free-png.png"
+  },
+  {
+    "id": 50,
+    "name": "Standing Desk #50",
+    "category": "Furniture",
+    "price": 1689,
+    "image": "https://static.vecteezy.com/system/resources/previews/050/277/573/non_2x/adjustable-standing-desk-with-wooden-tabletop-free-png.png"
+  },
+  {
+    "id": 51,
+    "name": "Laptop Pro #51",
+    "category": "Electronics",
+    "price": 2999,
+    "image": "https://cdn.ome.lt/_a08ItspuaWqbcQWxmD7QV2UKqY=/770x0/smart/uploads/conteudo/fotos/Blade_14.png"
+  },
+  {
+    "id": 52,
+    "name": "Noise Cancelling Headphones #52",
+    "category": "Electronics",
+    "price": 909,
+    "image": "https://www.pngplay.com/wp-content/uploads/13/Noise-Cancelling-Headphones-Transparent-Images.png"
+  },
+  {
+    "id": 53,
+    "name": "Ultra-Wide Monitor #53",
+    "category": "Electronics",
+    "price": 1519,
+    "image": "https://storage.aoc.com/assets/12118/AOC_CU34G2XE_PV_FRONT-large.png"
+  },
+  {
+    "id": 54,
+    "name": "Ergonomic Chair #54",
+    "category": "Furniture",
+    "price": 1329,
+    "image": "https://static.vecteezy.com/system/resources/previews/036/625/221/non_2x/ai-generated-black-and-red-computer-gaming-chair-isolated-on-a-transparent-background-free-png.png"
+  },
+  {
+    "id": 55,
+    "name": "Standing Desk #55",
+    "category": "Furniture",
+    "price": 1739,
+    "image": "https://static.vecteezy.com/system/resources/previews/050/277/573/non_2x/adjustable-standing-desk-with-wooden-tabletop-free-png.png"
+  },
+  {
+    "id": 56,
+    "name": "Laptop Pro #56",
+    "category": "Electronics",
+    "price": 3049,
+    "image": "https://cdn.ome.lt/_a08ItspuaWqbcQWxmD7QV2UKqY=/770x0/smart/uploads/conteudo/fotos/Blade_14.png"
+  },
+  {
+    "id": 57,
+    "name": "Noise Cancelling Headphones #57",
+    "category": "Electronics",
+    "price": 959,
+    "image": "https://www.pngplay.com/wp-content/uploads/13/Noise-Cancelling-Headphones-Transparent-Images.png"
+  },
+  {
+    "id": 58,
+    "name": "Ultra-Wide Monitor #58",
+    "category": "Electronics",
+    "price": 1569,
+    "image": "https://storage.aoc.com/assets/12118/AOC_CU34G2XE_PV_FRONT-large.png"
+  },
+  {
+    "id": 59,
+    "name": "Ergonomic Chair #59",
+    "category": "Furniture",
+    "price": 1379,
+    "image": "https://static.vecteezy.com/system/resources/previews/036/625/221/non_2x/ai-generated-black-and-red-computer-gaming-chair-isolated-on-a-transparent-background-free-png.png"
+  },
+  {
+    "id": 60,
+    "name": "Standing Desk #60",
+    "category": "Furniture",
+    "price": 1789,
+    "image": "https://static.vecteezy.com/system/resources/previews/050/277/573/non_2x/adjustable-standing-desk-with-wooden-tabletop-free-png.png"
+  },
+  {
+    "id": 61,
+    "name": "Laptop Pro #61",
+    "category": "Electronics",
+    "price": 3099,
+    "image": "https://cdn.ome.lt/_a08ItspuaWqbcQWxmD7QV2UKqY=/770x0/smart/uploads/conteudo/fotos/Blade_14.png"
+  },
+  {
+    "id": 62,
+    "name": "Noise Cancelling Headphones #62",
+    "category": "Electronics",
+    "price": 1009,
+    "image": "https://www.pngplay.com/wp-content/uploads/13/Noise-Cancelling-Headphones-Transparent-Images.png"
+  },
+  {
+    "id": 63,
+    "name": "Ultra-Wide Monitor #63",
+    "category": "Electronics",
+    "price": 1619,
+    "image": "https://storage.aoc.com/assets/12118/AOC_CU34G2XE_PV_FRONT-large.png"
+  },
+  {
+    "id": 64,
+    "name": "Ergonomic Chair #64",
+    "category": "Furniture",
+    "price": 1429,
+    "image": "https://static.vecteezy.com/system/resources/previews/036/625/221/non_2x/ai-generated-black-and-red-computer-gaming-chair-isolated-on-a-transparent-background-free-png.png"
+  },
+  {
+    "id": 65,
+    "name": "Standing Desk #65",
+    "category": "Furniture",
+    "price": 1839,
+    "image": "https://static.vecteezy.com/system/resources/previews/050/277/573/non_2x/adjustable-standing-desk-with-wooden-tabletop-free-png.png"
+  },
+  {
+    "id": 66,
+    "name": "Laptop Pro #66",
+    "category": "Electronics",
+    "price": 3149,
+    "image": "https://cdn.ome.lt/_a08ItspuaWqbcQWxmD7QV2UKqY=/770x0/smart/uploads/conteudo/fotos/Blade_14.png"
+  },
+  {
+    "id": 67,
+    "name": "Noise Cancelling Headphones #67",
+    "category": "Electronics",
+    "price": 1059,
+    "image": "https://www.pngplay.com/wp-content/uploads/13/Noise-Cancelling-Headphones-Transparent-Images.png"
+  },
+  {
+    "id": 68,
+    "name": "Ultra-Wide Monitor #68",
+    "category": "Electronics",
+    "price": 1669,
+    "image": "https://storage.aoc.com/assets/12118/AOC_CU34G2XE_PV_FRONT-large.png"
+  },
+  {
+    "id": 69,
+    "name": "Ergonomic Chair #69",
+    "category": "Furniture",
+    "price": 1479,
+    "image": "https://static.vecteezy.com/system/resources/previews/036/625/221/non_2x/ai-generated-black-and-red-computer-gaming-chair-isolated-on-a-transparent-background-free-png.png"
+  },
+  {
+    "id": 70,
+    "name": "Standing Desk #70",
+    "category": "Furniture",
+    "price": 1889,
+    "image": "https://static.vecteezy.com/system/resources/previews/050/277/573/non_2x/adjustable-standing-desk-with-wooden-tabletop-free-png.png"
+  },
+  {
+    "id": 71,
+    "name": "Laptop Pro #71",
+    "category": "Electronics",
+    "price": 3199,
+    "image": "https://cdn.ome.lt/_a08ItspuaWqbcQWxmD7QV2UKqY=/770x0/smart/uploads/conteudo/fotos/Blade_14.png"
+  },
+  {
+    "id": 72,
+    "name": "Noise Cancelling Headphones #72",
+    "category": "Electronics",
+    "price": 1109,
+    "image": "https://www.pngplay.com/wp-content/uploads/13/Noise-Cancelling-Headphones-Transparent-Images.png"
+  },
+  {
+    "id": 73,
+    "name": "Ultra-Wide Monitor #73",
+    "category": "Electronics",
+    "price": 1719,
+    "image": "https://storage.aoc.com/assets/12118/AOC_CU34G2XE_PV_FRONT-large.png"
+  },
+  {
+    "id": 74,
+    "name": "Ergonomic Chair #74",
+    "category": "Furniture",
+    "price": 1529,
+    "image": "https://static.vecteezy.com/system/resources/previews/036/625/221/non_2x/ai-generated-black-and-red-computer-gaming-chair-isolated-on-a-transparent-background-free-png.png"
+  },
+  {
+    "id": 75,
+    "name": "Standing Desk #75",
+    "category": "Furniture",
+    "price": 1939,
+    "image": "https://static.vecteezy.com/system/resources/previews/050/277/573/non_2x/adjustable-standing-desk-with-wooden-tabletop-free-png.png"
+  },
+  {
+    "id": 76,
+    "name": "Laptop Pro #76",
+    "category": "Electronics",
+    "price": 3249,
+    "image": "https://cdn.ome.lt/_a08ItspuaWqbcQWxmD7QV2UKqY=/770x0/smart/uploads/conteudo/fotos/Blade_14.png"
+  },
+  {
+    "id": 77,
+    "name": "Noise Cancelling Headphones #77",
+    "category": "Electronics",
+    "price": 1159,
+    "image": "https://www.pngplay.com/wp-content/uploads/13/Noise-Cancelling-Headphones-Transparent-Images.png"
+  },
+  {
+    "id": 78,
+    "name": "Ultra-Wide Monitor #78",
+    "category": "Electronics",
+    "price": 1769,
+    "image": "https://storage.aoc.com/assets/12118/AOC_CU34G2XE_PV_FRONT-large.png"
+  },
+  {
+    "id": 79,
+    "name": "Ergonomic Chair #79",
+    "category": "Furniture",
+    "price": 1579,
+    "image": "https://static.vecteezy.com/system/resources/previews/036/625/221/non_2x/ai-generated-black-and-red-computer-gaming-chair-isolated-on-a-transparent-background-free-png.png"
+  },
+  {
+    "id": 80,
+    "name": "Standing Desk #80",
+    "category": "Furniture",
+    "price": 1989,
+    "image": "https://static.vecteezy.com/system/resources/previews/050/277/573/non_2x/adjustable-standing-desk-with-wooden-tabletop-free-png.png"
+  },
+  {
+    "id": 81,
+    "name": "Laptop Pro #81",
+    "category": "Electronics",
+    "price": 3299,
+    "image": "https://cdn.ome.lt/_a08ItspuaWqbcQWxmD7QV2UKqY=/770x0/smart/uploads/conteudo/fotos/Blade_14.png"
+  },
+  {
+    "id": 82,
+    "name": "Noise Cancelling Headphones #82",
+    "category": "Electronics",
+    "price": 1209,
+    "image": "https://www.pngplay.com/wp-content/uploads/13/Noise-Cancelling-Headphones-Transparent-Images.png"
+  },
+  {
+    "id": 83,
+    "name": "Ultra-Wide Monitor #83",
+    "category": "Electronics",
+    "price": 1819,
+    "image": "https://storage.aoc.com/assets/12118/AOC_CU34G2XE_PV_FRONT-large.png"
+  },
+  {
+    "id": 84,
+    "name": "Ergonomic Chair #84",
+    "category": "Furniture",
+    "price": 1629,
+    "image": "https://static.vecteezy.com/system/resources/previews/036/625/221/non_2x/ai-generated-black-and-red-computer-gaming-chair-isolated-on-a-transparent-background-free-png.png"
+  },
+  {
+    "id": 85,
+    "name": "Standing Desk #85",
+    "category": "Furniture",
+    "price": 2039,
+    "image": "https://static.vecteezy.com/system/resources/previews/050/277/573/non_2x/adjustable-standing-desk-with-wooden-tabletop-free-png.png"
+  },
+  {
+    "id": 86,
+    "name": "Laptop Pro #86",
+    "category": "Electronics",
+    "price": 3349,
+    "image": "https://cdn.ome.lt/_a08ItspuaWqbcQWxmD7QV2UKqY=/770x0/smart/uploads/conteudo/fotos/Blade_14.png"
+  },
+  {
+    "id": 87,
+    "name": "Noise Cancelling Headphones #87",
+    "category": "Electronics",
+    "price": 1259,
+    "image": "https://www.pngplay.com/wp-content/uploads/13/Noise-Cancelling-Headphones-Transparent-Images.png"
+  },
+  {
+    "id": 88,
+    "name": "Ultra-Wide Monitor #88",
+    "category": "Electronics",
+    "price": 1869,
+    "image": "https://storage.aoc.com/assets/12118/AOC_CU34G2XE_PV_FRONT-large.png"
+  },
+  {
+    "id": 89,
+    "name": "Ergonomic Chair #89",
+    "category": "Furniture",
+    "price": 1679,
+    "image": "https://static.vecteezy.com/system/resources/previews/036/625/221/non_2x/ai-generated-black-and-red-computer-gaming-chair-isolated-on-a-transparent-background-free-png.png"
+  },
+  {
+    "id": 90,
+    "name": "Standing Desk #90",
+    "category": "Furniture",
+    "price": 2089,
+    "image": "https://static.vecteezy.com/system/resources/previews/050/277/573/non_2x/adjustable-standing-desk-with-wooden-tabletop-free-png.png"
+  },
+  {
+    "id": 91,
+    "name": "Laptop Pro #91",
+    "category": "Electronics",
+    "price": 3399,
+    "image": "https://cdn.ome.lt/_a08ItspuaWqbcQWxmD7QV2UKqY=/770x0/smart/uploads/conteudo/fotos/Blade_14.png"
+  },
+  {
+    "id": 92,
+    "name": "Noise Cancelling Headphones #92",
+    "category": "Electronics",
+    "price": 1309,
+    "image": "https://www.pngplay.com/wp-content/uploads/13/Noise-Cancelling-Headphones-Transparent-Images.png"
+  },
+  {
+    "id": 93,
+    "name": "Ultra-Wide Monitor #93",
+    "category": "Electronics",
+    "price": 1919,
+    "image": "https://storage.aoc.com/assets/12118/AOC_CU34G2XE_PV_FRONT-large.png"
+  },
+  {
+    "id": 94,
+    "name": "Ergonomic Chair #94",
+    "category": "Furniture",
+    "price": 1729,
+    "image": "https://static.vecteezy.com/system/resources/previews/036/625/221/non_2x/ai-generated-black-and-red-computer-gaming-chair-isolated-on-a-transparent-background-free-png.png"
+  },
+  {
+    "id": 95,
+    "name": "Standing Desk #95",
+    "category": "Furniture",
+    "price": 2139,
+    "image": "https://static.vecteezy.com/system/resources/previews/050/277/573/non_2x/adjustable-standing-desk-with-wooden-tabletop-free-png.png"
+  },
+  {
+    "id": 96,
+    "name": "Laptop Pro #96",
+    "category": "Electronics",
+    "price": 3449,
+    "image": "https://cdn.ome.lt/_a08ItspuaWqbcQWxmD7QV2UKqY=/770x0/smart/uploads/conteudo/fotos/Blade_14.png"
+  },
+  {
+    "id": 97,
+    "name": "Noise Cancelling Headphones #97",
+    "category": "Electronics",
+    "price": 1359,
+    "image": "https://www.pngplay.com/wp-content/uploads/13/Noise-Cancelling-Headphones-Transparent-Images.png"
+  },
+  {
+    "id": 98,
+    "name": "Ultra-Wide Monitor #98",
+    "category": "Electronics",
+    "price": 1969,
+    "image": "https://storage.aoc.com/assets/12118/AOC_CU34G2XE_PV_FRONT-large.png"
+  },
+  {
+    "id": 99,
+    "name": "Ergonomic Chair #99",
+    "category": "Furniture",
+    "price": 1779,
+    "image": "https://static.vecteezy.com/system/resources/previews/036/625/221/non_2x/ai-generated-black-and-red-computer-gaming-chair-isolated-on-a-transparent-background-free-png.png"
+  },
+  {
+    "id": 100,
+    "name": "Standing Desk #100",
+    "category": "Furniture",
+    "price": 2189,
+    "image": "https://static.vecteezy.com/system/resources/previews/050/277/573/non_2x/adjustable-standing-desk-with-wooden-tabletop-free-png.png"
+  }
 ]

