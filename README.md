@@ -1,7 +1,3 @@
-# Demonstrations
-
----
-
 # Take‑Home Assessment
 
 Welcome, candidate! This project contains **intentional issues** that mimic real‑world scenarios.
